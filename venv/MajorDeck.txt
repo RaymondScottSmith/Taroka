@@ -1,0 +1,14 @@
+Arifact/Look for an entertaining man with a monkey. This man is more than he seems./He lurks in the darkness where the morning light once shone - a sacred place./Artifact.png
+Beast/A werewolf holds a secret hatred for your enemy. Use her hatred to your advantage./The beast sits on his dark throne./Beast.png
+Broken One/Your greatest ally will be a wizard. His mind is broken, but his spells are strong./He haunts the tomb of the man he envied above all./Broken_One.png
+Darklord/Ah, the worst of all truths: You must face the evil of this land alone!/He lurks in the depths of darkness, in the one place to which he must return./Darklord.png
+Donjon/Search for a troubled young man surrounded by wealth and madness. His home is his prison./He lurks in a hall of bones, in the dark pits of his castle./Donjon.png
+Seer/Look for a dusk elf living among the Vistani. He has suffered a great loss and is haunted by dark dreams. Help him, and he will help you in return./He waits for you in a place of wisdom, warmth, and despair. Great secrets are there./Seer.png
+Ghost/I see a fallen paladin of a fallen order of knights. He lingers like a ghost in a dead dragon's lair./Look to the father's tomb./Ghost.png
+Executioner/Seek out the brother of the devil's bride. They call him "the lesser", but he has a powerful soul./I see a dark figure on a balcony, looking down upon his tortured land with a twisted smile./Executioner.png
+Horseman/I see a dead man of noble birth, guarded by his widow. Return life to the dead man's corpse and he will be your staunch ally./He lurks in the one place to which he must return - a place of death./Horseman.png
+Innocent/Evil's bride is the one you seek!/He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon./Innocent.png
+Marionette/What horror is this? I see a man made by a man. Ageless and alone, it haunts the towers of the castle./Look to great heights. Find the beating heart of the castle. He waits nearby./Marionette.png
+Mists/A Vistana wanders this land alone, searching for her mentor. She does not stay in one place for long. Seek her out at Saint Markovia's abbey, near the mists./The cards can't see where the evil lurks. The mists obscure all!/Mists.png
+Raven/Find the leader of the feathered ones who live among the vines. Though old, he has one more fight left in him./Look to the mother's tomb./Raven.png
+Tempter/I hear a wedding bell, or perhaps a death knell. It calls thee to a mountainside abbey, wherein you will find a woman who is more than the sum of her parts./I see a secret place - a vault of temptation hidden behind a woman of great beauty. The evil waits atop his tower of treasure./Tempter.png

@@ -1,0 +1,40 @@
+Avenger/The treasure lies in a dragon's house, in hands once clean and now corrupted./Avenger.png
+Paladin/I see a sleeping prince, a servant of light and the brother of darkness. The treasure lies with him./Paladin.png
+Soldier/Go to the mountains. Climb the white tower guarded by golden knights./Soldier.png
+Mercenary/The thing you seek lies with the dead, under mountains of gold coins./Mercenary.png
+Myrmidon/Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to Mother Night./Myrmidon.png
+Berserker/Find the Mad Dog's crypt. The treasure lies within, beneath blackened bones./Berserker.png
+Hooded One/I see a faceless god. He awaits you at the end of a long and winding road, deep in the mountains./Hooded_One.png
+Dictator/I see a throne fit for a king./Dictator.png
+Torturer/There is a town where all is not well. There you will find a house of corruption, and within, a dark room full of still ghosts./Torturer.png
+Warrior/That which you seek lies in the womb of darkness, the devil's lair: the one place to which he must return./Warrior.png
+Transmuter/Go to a place of dizzying heights, where the stone itself is alive!/Transmuter.png
+Diviner/Look to the one who sees all. The treasure is hidden in her camp./Diviner.png
+Enchanter/I see a kneeling woman - a rose of great beauty plucked too soon. The master of the marsh knows of whom I speak./Enchanter.png
+Abjurer/I see a fallen house guarded by a great stone dragon. Look to the highest peak./Abjurer.png
+Elementalist/The treasure is hidden in a small castle beneath a mountain, guarded by amber giants./Elementalist.png
+Evoker/Search for the crypt of a wizard ordinaire. His staff is the key./Evoker.png
+Illusionist/A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek./Illusionist.png
+Necromancer/A woman hangs above a roaring fire. Find her, and you will find the treasure./Necromancer.png
+Conjurer/I see a dead village drowned by a river, rules by one who has brought great evil into the world./Conjurer.png
+Wizard/Look for a wizard's tower on a lake. Let the wizard's name and servant guide you to that which you seek./Wizard.png
+Swashbuckler/I see the skeleton of a deadly warrior, lying on a bed of stone flanked by gargoyles./Swashbuckler.png
+Philanthropist/Look to a place where sickness and madness are bred. Where children once cried, the treasure lies still./Philanthropist.png
+Trader/Look to the wizard of wines! In wood and sand the treasure hides./Trader.png
+Merchant/Seek a cask that once contained the finest wine, of which not a drop remains./Merchant.png
+Guild Member/I see a dark room full of bottles. It is the tomb of a guild member./Guild_Member.png
+Beggar/A wounded elf has what you seek. He will part with the treasure to see his dark dreams fulfilled./Beggar.png
+Thief/What you seek lies at the crossroads of life and death, among the buried dead./Thief.png
+Tax Collector/The Vistani have what you seek. A missing child holds the key to the treasure's release./Tax_Collector.png
+Miser/Look for a fortress inside a fortress, in a place hidden behind fire./Miser.png
+Rogue/I see a nest of ravens. There you will find the prize./Rogue.png
+Monk/The treasure you seek is hidden behind the sun, in the house of a saint./Monk.png
+Missionary/I see a garden dusted with snow, watched over by a scarecrow with a sackcloth grin. Look not to the garden but to the guardian./Missionary.png
+Healer/Look to the west. Find a pool blessed by the light of the white sun./Healer.png
+Shepherd/Find the mother - she who gave birth to evil./Shepherd.png
+Druid/An evil tree grows atop a hill of graves where the ancient dead sleep. The ravens can help you find it. Look for the treasure there./Druid.png
+Anarchist/I see walls of bones, a chandelier of bones, and a table of bones - all that remains of enemies long forgotten./Anarchist.png
+Charlatan/I see a lonely mill on a precipice. The treasure lies within./Charlatan.png
+Bishop/What you seek lies in a pile of treasure, beyond a set of amber doors./Bishop.png
+Traitor/Look for a wealthy woman. A staunch ally of the devil, she keep the treasure under lock and key, with the bones of an ancient enemy./Traitor.png
+Priest/You will find what you seek in the castle, amid the ruins of a place of supplication./Priest.png
